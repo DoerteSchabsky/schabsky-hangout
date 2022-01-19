@@ -22,7 +22,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
                  "value":"Garten"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
                  "value":"https:\/\/neal.fun\/life-checklist\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
                  "value":"https:\/\/neal.fun\/universe-forecast\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
                  "value":"https:\/\/neal.fun\/logos-from-memory\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":"https:\/\/neal.fun\/macaroni-draw\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -130,7 +130,7 @@
                  "value":"umfallen.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
                  "value":"https:\/\/neal.fun\/conquer-the-world\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
                  "value":"Furz.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -184,7 +184,7 @@
                  "value":"https:\/\/neal.fun\/speed\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
                  "value":"https:\/\/wallpaperaccess.com\/full\/143950.jpg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -220,7 +220,7 @@
                  "value":"https:\/\/4.bp.blogspot.com\/-_QW8-9rE_64\/WLCIxjhpdXI\/AAAAAAABus4\/ZAJPZYMUCE0raXmYhZwOhc--kKHMEpvTwCLcB\/s1600\/funny-animals-253-33.jpg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -238,7 +238,7 @@
                  "value":"Amsel.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -256,7 +256,7 @@
                  "value":"https:\/\/www.frogx3.com\/wp-content\/uploads\/2017\/11\/Brian-Valente.jpg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -274,7 +274,7 @@
                  "value":"Toilettensp\u00fclung.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -292,7 +292,7 @@
                  "value":"Kaffeemaschine.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -322,7 +322,7 @@
                  "value":"Rote Lounge"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -340,7 +340,7 @@
                  "value":"https:\/\/i.pinimg.com\/originals\/68\/ac\/90\/68ac902e1f5e285f2f7a66a9d311e1f0.jpg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -358,7 +358,7 @@
                  "value":"https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/190913153757-comedy-wildlife-photography-awards-10-full-169.jpg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -370,7 +370,7 @@
          "name":"Map \u00dcbersicht & Anleitung",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -388,7 +388,7 @@
                  "value":"https:\/\/www.wallpaperup.com\/uploads\/wallpapers\/2014\/01\/08\/219324\/9764b761b3562405ee04c366ada0d959-700.jpg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -406,7 +406,7 @@
                  "value":"https:\/\/www.gifbin.com\/f\/987833"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -424,7 +424,7 @@
                  "value":"https:\/\/neal.fun\/draw-your-island\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -442,7 +442,7 @@
                  "value":"https:\/\/pointerpointer.com\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -472,7 +472,7 @@
                  "value":"https:\/\/neal.fun\/who-was-alive\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -490,7 +490,7 @@
                  "value":"https:\/\/neal.fun\/deep-sea\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -508,7 +508,7 @@
                  "value":"https:\/\/findtheinvisiblecow.com\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
